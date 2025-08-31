@@ -19,4 +19,4 @@ Tech Stack:
 1,HTML
 2,CSS
 3,Bootstrap 4.5
-4,JavaScript (Vanilla)
+4,JavaScript 
